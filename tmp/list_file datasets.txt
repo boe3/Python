@@ -1,0 +1,45 @@
+                                    file                                  location
+0                   music_log_upd_en.csv                       Basic Python Theory
+1                   music_project_en.csv                      Basic Python project
+2            support_log_grouped_eng.csv                 Data Preprocessing Theory
+3                   DrinkPreferences.csv    Data Preprocessing Guided Case Study 1
+4              PassengerTotalsClean.xlsx    Data Preprocessing Guided Case Study 2
+5                   PassengerTotals.xlsx    Data Preprocessing Guided Case Study 2
+6                  PassengerCompare.xlsx    Data Preprocessing Guided Case Study 2
+7                      side_effects.xlsx    Data Preprocessing Guided Case Study 3
+8                      test_results.xlsx    Data Preprocessing Guided Case Study 4
+9                 credit_scoring_eng.csv                Data Preprocessing Project
+10                        visits_eng.csv          Exploratory Data Analysis Theory
+11                       vehicles_us.csv         Exploratory Data Analysis Project
+12                    megaline_calls.csv         Statistical Data Analysis Project
+13                 megaline_internet.csv         Statistical Data Analysis Project
+14                 megaline_messages.csv         Statistical Data Analysis Project
+15                    megaline_plans.csv         Statistical Data Analysis Project
+16                    megaline_users.csv         Statistical Data Analysis Project
+17                             games.csv                      Integrated Project 1
+18             project_sql_result_01.csv                               SQL Project
+19             project_sql_result_02.csv                               SQL Project
+20             project_sql_result_03.csv                               SQL Project
+21                     train_data_us.csv   Introduction to Machine Learning Theory
+22                    users_behavior.csv  Introduction to Machine Learning Project
+23  travel_insurance_us_preprocessed.csv                Supervised Learning Theory
+24                             Churn.csv               Supervised Learning Project
+25                             heart.csv       Machine Learning in Business Theory
+26                        geo_data_0.csv      Machine Learning in Business Project
+27                        geo_data_1.csv      Machine Learning in Business Project
+28                        geo_data_2.csv      Machine Learning in Business Project
+29               gold_recovery_train.csv                   DS Integrated Project 2
+30                gold_recovery_test.csv                   DS Integrated Project 2
+31                gold_recovery_full.csv                   DS Integrated Project 2
+32                      insurance_us.csv                    Linear Algebra Project
+33                      train_data_n.csv                  Numerical Methods Theory
+34                       test_data_n.csv                  Numerical Methods Theory
+35               travel_insurance_us.csv                  Numerical Methods Theory
+36                          car_data.csv                 Numerical Methods Project
+37                energy_consumption.csv                        Time Series Theory
+38                              taxi.csv                       Time Series Project
+39                  imdb_reviews_200.tsv         Machine Learning for Texts Theory
+40                      imdb_reviews.tsv        Machine Learning for Texts Project
+41                          segments.csv              Unsupervised Learning Theory
+42                              cars.csv              Unsupervised Learning Theory
+43                             sales.csv              Unsupervised Learning Theory
